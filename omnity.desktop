@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=OmniTV
+GenericName=IPTV Player
+Comment=Darmowe kanały TV online z całego świata
+Exec=omnity
+Icon=omnity
+Terminal=false
+Categories=AudioVideo;Video;Player;TV;
+Keywords=iptv;tv;telewizja;player;stream;
