@@ -386,7 +386,9 @@ Run workflow** albo wypchnij tag `v*`. Workflow:
 Gotowy plik pobierzesz z podsumowania uruchomienia workflow. Instalator nie jest
 podpisany certyfikatem, więc SmartScreen może poprosić o potwierdzenie.
 
-Download dla Fedora, Debian/Ubuntu i WIndows - (https://drive.proton.me/urls/WRC4B7HT4W#lhq4cATCxSjr)
+Download pełen pakiet instalatorów dla Fedora, Debian/Ubuntu i WIndows - (https://drive.proton.me/urls/WRC4B7HT4W#lhq4cATCxSjr)
+
+Pobierz plik instalacyjny dla Windows (uruchom plik w trybie administratora) OmniTV 0.2.0.exe (https://drive.proton.me/urls/XPGTEH19PR#NTP8BzZRlUre)
 
 ## Struktura projektu
 
